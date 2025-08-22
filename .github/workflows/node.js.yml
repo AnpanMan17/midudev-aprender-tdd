@@ -8,10 +8,10 @@ on:
     branches: [ "main" ]
     
 jobs:
-  Borjaland:
+  borjaland:
 
     runs-on: ubuntu-latest
     
     steps:
       - name: 'Moriste en Madrid bostero'
-      - run: echo "9/12 forever and ever"
+        run: echo "9/12 forever and ever"
